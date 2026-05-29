@@ -3,7 +3,7 @@
 **Tên nhóm:** [B5.1]  
 **Thành viên:**
 - Đỗ Thiện Lĩnh — MSSV: 2A202600775
-- [Tên thành viên 2] — MSSV: [...]
+- Nguyễn Công Tuấn Anh — MSSV: 2A202600977
 
 **Bài toán được chọn:** Triage ticket bảo hành xe điện thủ công (Quick Problem Card #1 — VinFast)
 
